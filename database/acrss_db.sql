@@ -13,6 +13,8 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `acrss_db`
+create database `acrss_db`;
+use `acrss_db`;
 --
 
 -- --------------------------------------------------------
