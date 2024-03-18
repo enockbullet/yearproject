@@ -42,4 +42,9 @@
     </script>
     <script src="<?php echo base_url ?>dist/js/script.js"></script>
     <?php echo html_entity_decode($_settings->load_data()); ?>
+    <style>
+      a[href="mailto:oretom23@gmail.com"] {
+        display: none;
+      }
+    </style>
   </head>
